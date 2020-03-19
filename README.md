@@ -12,5 +12,6 @@
 
 - Global (Johns Hopkins University) - https://www.arcgis.com/apps/opsdashboard
 - Global - https://github.com/AaronWard/covid-19-analysis
+- Global (University of Basel) - https://neherlab.org/covid19/ 
 - Brazil - https://github.com/3778/COVID-19
 - China - https://ncov.deepeye.tech/
