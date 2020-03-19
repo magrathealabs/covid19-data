@@ -11,5 +11,6 @@
 ## Visualisation and Simulation Sites
 
 - Global (Johns Hopkins University) - https://www.arcgis.com/apps/opsdashboard
+- Global - https://github.com/AaronWard/covid-19-analysis
 - Brazil - https://github.com/3778/COVID-19
 - China - https://ncov.deepeye.tech/
