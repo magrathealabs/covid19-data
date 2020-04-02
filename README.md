@@ -11,7 +11,7 @@
 - Italy - Dati COVID-19 Italia - https://github.com/pcm-dpc/COVID-19
 - Japan - Tokio Gov - https://github.com/tokyo-metropolitan-gov/covid19
 
-## Visualisation and Simulation Sites
+## Visualization and Simulation Sites
 
 - Global - Covid19Dashboards - https://covid19dashboards.com/
 - Global (Johns Hopkins University) - https://www.arcgis.com/apps/opsdashboard
@@ -23,5 +23,6 @@
 - Global - COVID-19 Region Statistics - https://github.com/biewxw/corona.log
 - Global - Covidify Tool - https://github.com/AaronWard/covidify
 - Brazil - https://github.com/3778/COVID-19
+- Brazil (UDESC) - https://covid.monitor.udesc.br/
 - China - https://ncov.deepeye.tech/
 - India - https://www.covid19india.org/
